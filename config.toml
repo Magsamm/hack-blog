@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://magsamm.github.io/hack-blog/"
 title = "Hack blog"
 PublishDir = "docs"
 copyright = " ~./"
